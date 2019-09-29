@@ -151,7 +151,7 @@ class PRChecker:
             
             if not has_completed_multiple:
                 if path[0] == "Yes":
-                    self.check_game_submission(uname,new_file,fcount)
+                    self.check_yes_submission(uname,new_file,fcount)
 
                 elif not had_contrib_file:
                     self.add_invalid('Your file is not in a project folder ("Yes"). This may be intentional, but most likely not. If it is intentional please tag a maintainer.')
