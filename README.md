@@ -32,7 +32,7 @@ while True:
 1. Your submission must be in the `Yes` directory `Yes/yes.{language}`
 2. Your submission must NOT be a duplicate of someone else's submission. It MUST be UNIQUE (the language MUST be UNIQUE, the sample MUST be UNIQUE).
 3. Make sure to say who made it at the top of the file, using a comment.
-4. The submissions are all checked automatically, if it fails because your response is wrong, then you're not following the template.
+4. The submissions are checked automatically, if the submission is marked as needs-work, this means your code is missing functionality somewhere.
 5. No Malicious Code (cookie sniffing, iframe hacking, css local file stealing, ios rootkits, while loops that never end, CPU Monero Miners)
 6. No NSFW (porn, nudes, pictures of your cat's testicles, severed heads)
 7. No ADS (No advertising your product, No third party ads)
