@@ -4,7 +4,7 @@
 *this is satire, it's meant to be cute and to see what potential PRs have (both during hacktoberfest and otherwise)*
 
 
-Make sure to add yourself to the contributors file!(https://github.com/RaidAndFade/Hacktoberfest2019/blob/master/contributors.md).
+Make sure to add yourself to the [contributors file](https://github.com/RaidAndFade/Hacktoberfest2019/blob/master/contributors.md).
 
 ## Just Say Yes...
 
