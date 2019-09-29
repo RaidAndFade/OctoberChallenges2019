@@ -1,9 +1,10 @@
 # Hacktoberfest2019 ~ Week 1 Challenge
 
-For previous challenges, please look at [readmes](https://github.com/RaidAndFade/Hacktoberfest2018/tree/master/READMES).
-
 *This is part of a series of weekly projects that will be in this repository over the span of hacktoberfest.*
 *this is satire, it's meant to be cute and to see what potential PRs have (both during hacktoberfest and otherwise)*
+
+
+Make sure to add yourself to the contributors file!(https://github.com/RaidAndFade/Hacktoberfest2019/blob/master/contributors.md).
 
 ## Just Say Yes...
 
