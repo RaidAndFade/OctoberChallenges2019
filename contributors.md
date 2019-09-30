@@ -19,13 +19,7 @@ _(Do not modify this list unless you are a maintainer)_
 _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
+- [sroehrl](https://github.com/sroehrl)
 - [y21](https://github.com/y21)
 - [cedrvanh](https://github.com/cedrvanh)
 - [GiorgiBeriashvili](https://github.com/GiorgiBeriashvili)
-
-# Contributors
-
-_(People who have not participated in challenges but want to be a part of the project!)_
-
-- [RaidAndFade](https://github.com/raidandfade)
-- [joelibaceta](https://github.com/joelibaceta)
