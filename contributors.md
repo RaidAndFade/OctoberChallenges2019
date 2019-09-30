@@ -19,7 +19,7 @@ _(Do not modify this list unless you are a maintainer)_
 _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
-
+- [SoulSpark](https://github.com/soulspark666)
 # Contributors
 
 _(People who have not participated in challenges but want to be a part of the project!)_
