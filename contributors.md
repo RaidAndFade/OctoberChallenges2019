@@ -20,9 +20,11 @@ _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
 - [y21](https://github.com/y21)
+- [cedrvanh](https://github.com/cedrvanh)
 
 # Contributors
 
 _(People who have not participated in challenges but want to be a part of the project!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
+
