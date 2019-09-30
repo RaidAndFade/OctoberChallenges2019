@@ -28,4 +28,4 @@ _(People who have participated in the challenges!)_
 _(People who have not participated in challenges but want to be a part of the project!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
-
+- [joelibaceta](https://github.com/joelibaceta)
