@@ -19,7 +19,11 @@ _(Do not modify this list unless you are a maintainer)_
 _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
+
 - [sroehrl](https://github.com/sroehrl)
+
+- [y21](https://github.com/y21)
+
 
 # Contributors
 
