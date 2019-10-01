@@ -1,3 +1,5 @@
+// By Jijin - https://github.com/PJijin
+
 package main
 
 import (  
@@ -6,6 +8,6 @@ import (
 
 func main() {  
     for true {
-         fmt.Printf("Yes \n")
+         fmt.Printf("yes \n")
     }
 }
