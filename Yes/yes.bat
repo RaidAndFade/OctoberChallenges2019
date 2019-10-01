@@ -1,5 +1,5 @@
 @echo off
 
 :yes
-echo "YES"
+echo "yes"
 goto yes
