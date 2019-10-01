@@ -1,3 +1,4 @@
+:: made by keksbg
 @echo off
 :yes
 echo yes
