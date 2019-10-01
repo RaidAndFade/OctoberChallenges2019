@@ -1,0 +1,3 @@
+while(TRUE) {
+  print("Yes")
+}
