@@ -1,5 +1,7 @@
-# By dndln - https://github.com/dndln
+// By dndln - https://github.com/dndln
 
-while (true){  
-   println("yes")  
+fun main(args: Array<String>) {
+    while (true) {
+        println("yes")
+    }
 }
