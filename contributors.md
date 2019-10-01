@@ -29,4 +29,6 @@ _(People who have participated in the challenges!)_
 - [ajaystark](https://github.com/ajaystark)
 - [rogerthat](https://github.com/rogerthat39)
 - [TheOrangePuff](https:github.com/TheOrangePuff)
+- [Mamat](https://github.com/mamat90)
+- [NCPlayz](https://github.com/NCPlayz)
 - [Phyre1337](https:github.com/Phyre1337)
