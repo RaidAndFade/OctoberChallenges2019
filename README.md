@@ -1,6 +1,7 @@
 # Hacktoberfest2019 ~ Week 1 Challenge
 
 *This is part of a series of weekly projects that will be in this repository over the span of hacktoberfest.*
+
 *this is satire, it's meant to be cute and to see what potential PRs have (both during hacktoberfest and otherwise), as well as improve my management skills & my auto-auditing program and its submodules.*
 
 
