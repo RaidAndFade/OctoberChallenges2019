@@ -20,8 +20,10 @@ _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
 - [SoulSpark](https://github.com/soulspark666)
-# Contributors
-
-_(People who have not participated in challenges but want to be a part of the project!)_
-
-- [RaidAndFade](https://github.com/raidandfade)
+- [sroehrl](https://github.com/sroehrl)
+- [y21](https://github.com/y21)
+- [cedrvanh](https://github.com/cedrvanh)
+- [GiorgiBeriashvili](https://github.com/GiorgiBeriashvili)
+- [chriswaustin](https://github.com/chriswaustin)
+- [csleong98](https://github.com/csleong98)
+- [ajaystark](https://github.com/ajaystark)
