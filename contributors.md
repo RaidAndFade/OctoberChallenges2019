@@ -25,3 +25,4 @@ _(People who have participated in the challenges!)_
 - [GiorgiBeriashvili](https://github.com/GiorgiBeriashvili)
 - [chriswaustin](https://github.com/chriswaustin)
 - [csleong98](https://github.com/csleong98)
+- [ajaystark](https://github.com/ajaystark)
