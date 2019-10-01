@@ -28,5 +28,6 @@ _(People who have participated in the challenges!)_
 - [csleong98](https://github.com/csleong98)
 - [ajaystark](https://github.com/ajaystark)
 - [rogerthat](https://github.com/rogerthat39)
-- [TheOrangePuff](https:github.com/TheOrangePuff)
+- [TheOrangePuff](https:github.com/TheOrangePuff
 - [keksbg](https://github.com/keksbg)
+- [Mamat](https://github.com/mamat90)
