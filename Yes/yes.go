@@ -6,6 +6,6 @@ import (
 
 func main() {  
     for true {
-        fmt.Printf("Yes")
+         fmt.Printf("Yes \n")
     }
 }
