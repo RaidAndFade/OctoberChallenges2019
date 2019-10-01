@@ -5,11 +5,11 @@
 
 class yes {
    static void main(String[] args) {
-      sting var = "yes";
-		
-      while(var=="yes") {
-         println("yes");
-         
+      def vari = "yes";
+
+      while(vari=="yes") {
+         println "yes";
+
       }
    }
 }
