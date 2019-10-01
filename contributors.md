@@ -23,3 +23,4 @@ _(People who have participated in the challenges!)_
 - [y21](https://github.com/y21)
 - [cedrvanh](https://github.com/cedrvanh)
 - [GiorgiBeriashvili](https://github.com/GiorgiBeriashvili)
+- [chriswaustin](https://github.com/chriswaustin)
