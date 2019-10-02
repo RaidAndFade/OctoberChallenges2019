@@ -1,2 +1,3 @@
-text='Yes'
-console.log text
+while true
+  text='Yes'
+  console.log text
