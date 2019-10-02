@@ -1,11 +1,13 @@
 # By: its-kos - https://github.com/its-kos
 
-section .text
+	.text
 
 main:	li $v0, 4
+		la $a0, yes
    		while:
 			syscall
 			j while
 
-section .data
-yes: .asciiz "yes\n", $a0
+	.data
+yes: .asciiz "yes\n"
+
