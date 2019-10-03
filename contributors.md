@@ -30,6 +30,7 @@ _(People who have participated in the challenges!)_
 - [Eshno](https://github.com/eshno)
 - [rogerthat](https://github.com/rogerthat39)
 - [TheOrangePuff](https:github.com/TheOrangePuff)
+- [MadhavPruthi](https://github.com/MadhavPruthi)
 - [enabet](https://github.com/enabet)
 - [abhhii](https:github.com/abhhii)
 - [Mamat](https://github.com/mamat90)
