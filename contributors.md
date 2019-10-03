@@ -29,6 +29,7 @@ _(People who have participated in the challenges!)_
 - [ajaystark](https://github.com/ajaystark)
 - [Eshno](https://github.com/eshno)
 - [rogerthat](https://github.com/rogerthat39)
+- [keksbg](https://github.com/keksbg)
 - [TheOrangePuff](https:github.com/TheOrangePuff)
 - [maxPiroddi](https:github.com/maxPiroddi)
 - [Mystes-CS](https://github.com/Mystes-CS)

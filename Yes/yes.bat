@@ -1,5 +1,5 @@
+:: made by keksbg
 @echo off
-
 :yes
-echo "yes"
+echo yes
 goto yes
