@@ -41,6 +41,7 @@ _(People who have participated in the challenges!)_
 - [enabet](https://github.com/enabet)
 - [abhhii](https:github.com/abhhii)
 - [Mamat](https://github.com/mamat90)
+- [DeviChris](https://github.com/devichris)
 - [NCPlayz](https://github.com/NCPlayz)
 - [Phyre1337](https:github.com/Phyre1337)
 - [its-kos](https://github.com/its-kos)
