@@ -35,3 +35,4 @@ _(People who have participated in the challenges!)_
 - [Mamat](https://github.com/mamat90)
 - [NCPlayz](https://github.com/NCPlayz)
 - [its-kos](https://github.com/its-kos)
+- [raitisv](https:github.com/raitisv)
