@@ -1,3 +1,3 @@
 while true
-  text='Yes'
+  text='yes'
   console.log text
